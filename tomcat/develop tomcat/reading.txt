@@ -1,0 +1,4 @@
+1. 这篇博客主要介绍了怎么搭建tomcat的环境
+http://www.jb51.net/article/95120.htm
+
+2. 如果还出现error，就删除./tomcat/webapps/samples.
