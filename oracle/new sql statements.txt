@@ -1,0 +1,6 @@
+1、把Avalues 赋值给 Bvalues 或者把多个 Avalues 的值放到 table中。
+
+select <Avalues> insert <Bvalues or table> from <table>;
+
+2、创建table 并把select 的结果塞进table。
+create table <table> as select * from *;
